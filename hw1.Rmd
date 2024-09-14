@@ -505,3 +505,4 @@ chocolate %>%
 options(width = 120)
 sessioninfo::session_info()
 ```
+#Part 7
